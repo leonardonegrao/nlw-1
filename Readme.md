@@ -4,24 +4,21 @@
 
 ## Next Level Week
 
-A NLW foi uma semana de muito ensino oferecida pela RocketSeat com foco no desenvolvimento web usando as tecnologias React, Node e TypeScript.
+The NLW was a week of intensive coding and learning offered by Rocketseat focused on web development, using technologies such as React, Node and TypeScript.
 
-Na semana, foi construído um projeto, em 5 aulas, do começo ao fim, para estudar conceitos muito necessários no mercado como
+During the week, a project was developed, divided in 5 classes, from start to finish, to study concepts that usually are demanded by the market, such as REST, app development and database integration.
 
-## O Projeto
+## About The Project
 
-O projeto chama-se **Ecoleta**, uma plataforma de busca de pontos de coleta de resíduos diversos. Há tanto a plataforma web, exclusiva para cadastro desses pontos, quanto uma plataforma mobile, para a busca dos pontos (usuário final).
+The project is called **Ecoleta**, a platform to search collecting points for different kinds of residues. There is a webapp, that is used exclusively to register these points, and there is a mobile app, so that the final user can search for the points.
 
-As aplicações acessam o back-end, também desenvolvido no projeto, para cadastro e busca de pontos de coleta.
+The applications consume the back-end, also developed during the week, to register and search for the collecting points.
 
-## Tecnologias
+## Built With
 
-As tecnologias usadas no projeto são todas baseadas, de alguma forma, em JavaScript. Entretanto, o projeto em si foi todo desenvolvido usando TypeScript, para aproveitar da tipagem e integração com o IntelliSense.
-
-A aplicação web foi desenvolvida em TypeScript, usando ReactJS. Várias bibliotecas do Node colaboraram com o desenvolvimento, para uso dos ícones, para uso do mapa, etc.
-
-Já no mobile, também desenvolvido em TypeScript, foi usado o Expo e o React Native para criar uma plataforma de desenvolvimento simples, objetiva e com a possibilidade de interação com o aplicativo durante o desenvolvimento pelo aplicativo móvel do Expo.
-
-No back-end, o uso do NodeJS, com TypeScript, foi responsável por toda a construção da lógica. O servidor foi criado em SQLite e para criar uma comunicação fluída entre NodeJS e banco de dados foi usado o Knex.
-
-Essas foram apenas algumas das tecnologias trabalhadas na semana.
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [NodeJS](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [SQLite](https://www.sqlite.org/index.html)
